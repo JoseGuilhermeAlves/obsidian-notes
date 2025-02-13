@@ -1,4 +1,5 @@
 site_name: Documentações Phd
+site_url: https://github.com/JoseGuilhermeAlves/obsidian-notes
 theme:
   name: material
   features:
