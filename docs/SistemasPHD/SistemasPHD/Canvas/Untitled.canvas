@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"99cbbeea00944336","type":"file","file":"Modal/Modal com Scroll.md","x":-420,"y":-220,"width":400,"height":400},
+		{"id":"89ce07763693611a","type":"file","file":"Modal/Adicionando 'nível' a modal.md","x":140,"y":20,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"cca9af9aeaf6f2ba","fromNode":"99cbbeea00944336","fromSide":"right","toNode":"89ce07763693611a","toSide":"left"}
+	]
+}
